@@ -34,7 +34,7 @@ Le classeur est entièrement **piloté par formules** : la ligne TVA, les encais
 
 ### Règles de flux
 
-- **Encaissements clients (TTC, TVA 20 %)** : 20 % au comptant (mois M), 50 % à 30 jours (M+1), 30 % à 60 jours (M+2) — soit un DSO théorique pondéré de 33 jours.
+- **Encaissements clients (TTC, TVA 20 %)** : 20 % au comptant (mois M), 50 % à 30 jours (M+1), 30 % à 60 jours (M+2), soit un DSO théorique pondéré de 33 jours.
 - **Décaissements fournisseurs** : achats = 50 % du CA HT, réglés 100 % à 30 jours (M+1).
 - **Charges fixes** : salaires nets 20,0 k€/mois (comptant) · charges sociales 10,0 k€/mois (M+1) · charges externes 8,0 k€/mois (comptant) · acomptes IS 5,0 k€/trimestre.
 - **Investissement** : 50,0 k€ TTC décaissés comptant en avril.
