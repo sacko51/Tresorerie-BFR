@@ -44,7 +44,7 @@ Le classeur est entièrement **piloté par formules** : la ligne TVA, les encais
 | Indicateur | Janvier | Pic (juillet) | Décembre |
 |---|---|---|---|
 | BFR d'exploitation | 45,0 k€ | **84,6 k€** | 75,6 k€ |
-| DSO | ~34 j | ~33 j | ~34 j |
+| DSO | 34 j | 33 j | 34 j |
 | DPO | 30 j | 30 j | 30 j |
 
 ### Scénario de financement corrigé (onglet 04)
