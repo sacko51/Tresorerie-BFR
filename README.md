@@ -11,7 +11,7 @@ Fichiers : [`Dossier2_Tresorerie_BFR.xlsx`](./Dossier2_Tresorerie_BFR.xlsx) · [
 - **L'impasse de trésorerie d'avril à juillet** : partant d'un solde initial de **+25,0 k€**, la trésorerie plonge à **-40,0 k€ fin avril** et reste dans le rouge 4 mois consécutifs, avant de se rétablir en août (+9,1 k€) et d'atteindre **+54,0 k€** en fin d'année (soit +29,0 k€ de variation nette annuelle).
 - **Double cause identifiée :**
   1. **Erreur d'adossement financier** : un investissement matériel de 50,0 k€ TTC est financé au comptant sur la trésorerie d'exploitation en avril, au lieu d'une ressource stable de moyen/long terme.
-  2. **Effet ciseau du BFR** : en phase de croissance (CA de 60 à 120 k€), les fournisseurs sont payés à 30 jours tandis que 30 % du CA client n'est encaissé qu'à 60 jours — le BFR d'exploitation passe de 45,0 k€ (janvier) à un pic de **84,6 k€ (juillet)**.
+  2. **Effet ciseau du BFR** : en phase de croissance (CA de 60 à 120 k€), les fournisseurs sont payés à 30 jours tandis que 30 % du CA client n'est encaissé qu'à 60 jours - le BFR d'exploitation passe de 45,0 k€ (janvier) à un pic de **84,6 k€ (juillet)**.
 - **Effet du refinancement chiffré sur 12 mois** : un emprunt moyen terme de 50 k€ (4,0 %/an sur 48 mois) comble l'impasse d'avril (solde ramené à **+10,0 k€**) et maintient une trésorerie positive sur l'ensemble de l'année, mensualité de remboursement comprise.
 
 ---
