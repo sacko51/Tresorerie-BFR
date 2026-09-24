@@ -1,4 +1,4 @@
-# Dossier 2 — Gestion de la Trésorerie et Pilotage du BFR
+# Dossier 2 - Gestion de la Trésorerie et Pilotage du BFR
 
 Modèle financier prévisionnel sur 12 mois pour une PME fictive de négoce et distribution en croissance rapide. Projet personnel réalisé par un étudiant en Master 2 CGAO. Il montre comment une entreprise structurellement rentable peut se retrouver en situation de cessation de paiements si l'accroissement du Besoin en Fonds de Roulement (BFR) et le financement des investissements ne sont pas anticipés.
 
